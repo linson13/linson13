@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Linson 👋</h1>
 
-<h3 align="center">Entry-level Data Analyst & Machine Learning Enthusiast</h3>
+<h3 align="center">Entry level Data Analyst & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  Hands-on experience in data analytics, NLP, and AI automation projects — always building, always learning.
+  Hands on experience in data analytics, NLP, and AI automation projects — always building, always learning.
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 - 🔭 Currently exploring **machine learning & NLP** through hands-on, from-scratch projects
 - 📊 Background in **data analysis and automation pipelines**
 - 🧠 Interested in how ML systems actually work under the hood, not just how to call an API
-- 🌱 Always picking up something new — currently deepening my PyTorch and deep learning fundamentals
+- 🌱 Always picking up something new currently deepening my PyTorch and deep learning fundamentals
 - 💬 Open to connecting on data, ML, or automation projects
 
 ---
@@ -58,7 +58,7 @@
 
 - ATS Optimization & Resume Parsing
 - Automation Pipelines
-- End-to-end ML projects (data → model → deployment)
+- End to end ML projects (data → model → deployment)
 
 ---
 
@@ -76,4 +76,4 @@
 - 💼 LinkedIn: [linson-verghese](https://www.linkedin.com/in/linson-verghese-037887249/)
 - 🐙 GitHub: [@linson13](https://github.com/linson13)
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories and reach out if you'd like to collaborate.</i></p>
+<p align="center"><i>Thanks for stopping by, feel free to explore my repositories and reach out if you'd like to collaborate.</i></p>
